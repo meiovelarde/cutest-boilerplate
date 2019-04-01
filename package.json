@@ -1,0 +1,15 @@
+{
+  "name": "gmtry2",
+  "version": "1.0.0",
+  "description": "Gardenmasters Website: HTML5, JS, CSS, Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "meio",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
